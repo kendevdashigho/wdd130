@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 640" role="img" aria-label="Rafters paddling through whitewater rapids beneath mountains at sunrise">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffd27a"/>
+      <stop offset="55%" stop-color="#ff9d5c"/>
+      <stop offset="100%" stop-color="#2a6f7f"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0f4c5c"/>
+      <stop offset="100%" stop-color="#093a47"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="640" fill="url(#sky)"/>
+
+  <circle cx="1250" cy="150" r="80" fill="#fff2d6" opacity="0.9"/>
+
+  <path d="M0 300 L200 190 L400 320 L620 170 L850 300 L1080 200 L1320 310 L1600 220 L1600 420 L0 420 Z" fill="#3c5a6b"/>
+  <path d="M0 340 L220 250 L460 360 L700 240 L940 350 L1180 260 L1420 350 L1600 300 L1600 460 L0 460 Z" fill="#284754"/>
+
+  <rect y="380" width="1600" height="260" fill="url(#water)"/>
+
+  <path d="M0 420 Q100 400 200 420 T400 420 T600 420 T800 420 T1000 420 T1200 420 T1400 420 T1600 420" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="8"/>
+  <path d="M0 470 Q80 450 160 470 T320 470 T480 470 T640 470 T800 470 T960 470 T1120 470 T1280 470 T1440 470 T1600 470" fill="none" stroke="#ffffff" stroke-opacity="0.25" stroke-width="10"/>
+  <path d="M0 530 Q120 505 240 530 T480 530 T720 530 T960 530 T1200 530 T1440 530 T1600 525" fill="none" stroke="#ffffff" stroke-opacity="0.2" stroke-width="14"/>
+
+  <g transform="translate(720,440)">
+    <ellipse cx="0" cy="30" rx="130" ry="26" fill="#d6742a"/>
+    <ellipse cx="0" cy="18" rx="120" ry="20" fill="#e88a3c"/>
+    <circle cx="-70" cy="0" r="16" fill="#ffb703"/>
+    <circle cx="-20" cy="-6" r="16" fill="#f4a259"/>
+    <circle cx="35" cy="0" r="16" fill="#ffb703"/>
+    <line x1="-70" y1="0" x2="-95" y2="-40" stroke="#3a2a1a" stroke-width="5" stroke-linecap="round"/>
+    <line x1="35" y1="0" x2="60" y2="-38" stroke="#3a2a1a" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <path d="M0 620 Q400 590 800 620 T1600 610 L1600 640 L0 640 Z" fill="#062730" opacity="0.6"/>
+</svg>

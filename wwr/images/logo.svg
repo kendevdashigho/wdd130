@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="60" viewBox="0 0 220 60" role="img" aria-label="Blue Rapids Rafting Co. logo">
+  <circle cx="30" cy="30" r="26" fill="#0f4c5c"/>
+  <path d="M10 34q10-10 20 0t20 0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <path d="M10 24q10-10 20 0t20 0" fill="none" stroke="#ffb703" stroke-width="4" stroke-linecap="round"/>
+  <text x="66" y="27" font-family="Georgia, 'Iowan Old Style', serif" font-size="20" font-weight="700" fill="#0f4c5c">Blue Rapids</text>
+  <text x="66" y="46" font-family="Georgia, 'Iowan Old Style', serif" font-size="14" fill="#d97706" letter-spacing="1">RAFTING CO.</text>
+</svg>
